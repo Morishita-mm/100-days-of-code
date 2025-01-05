@@ -29,3 +29,11 @@
 **思ったこと** : どの粒度でクラスを作ったり、どんなIFを作って命名もどうするのか考えることがたくさん
 
 **リンク** : [読書管理アプリ](https://github.com/Morishita-mm/TomTrek/tree/feature/Menu)
+
+### Day 4 2025-1-5
+
+**今日の進捗** : JavaSilverの黒本の問題解くのにプログラム描きながら色々試した
+
+**思ったこと** : JavaSilverマジで意味あるのか？デザインパターンとかSpringとか勉強したほうがよっぽどためになりそう
+
+**リンク** : [Java練習リポジトリ](https://github.com/Morishita-mm/java-tutorial)
