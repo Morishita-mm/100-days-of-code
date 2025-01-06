@@ -37,3 +37,11 @@
 **思ったこと** : JavaSilverマジで意味あるのか？デザインパターンとかSpringとか勉強したほうがよっぽどためになりそう
 
 **リンク** : [Java練習リポジトリ](https://github.com/Morishita-mm/java-tutorial)
+
+### Day 5 2025-1-6
+
+**今日の進捗** : 読書管理アプリのメニューの内部実装を途中までやった
+
+**思ったこと** : ちゃんと設計してないから行き当たりばったりで変更したいところがたくさん出てくるからコード中にTODOがいっぱい　どっかでTODOこなす時間を作らないとなー
+
+**リンク** : [読書管理アプリ](https://github.com/Morishita-mm/TomTrek/tree/feature/Menu)
