@@ -53,3 +53,11 @@
 **思ったこと** : プログラミング自体はやってたけどこれを書くの忘れてたから一応Day6 リファクタリングが重すぎて最初からにしたけど今度は設計をしっかりしてから開発を使用
 
 **リンク** : [読書管理アプリ](https://github.com/Morishita-mm/TomTrek/tree/feature/BookModel)
+
+### DAy 7 2025-1-13
+
+**今日の感想** : 読書管理アプリでBookModel周りが充実してきた
+
+**思ったこと** : 一回作った部分だからだいぶサクサク進むけど、テストちゃんと書くとやっぱり速度は遅くなるのかなーって思う
+
+**リンク** : [読書管理アプリ](https://github.com/Morishita-mm/TomTrek/tree/feature/BookModel)
