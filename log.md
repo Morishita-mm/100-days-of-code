@@ -61,3 +61,11 @@
 **思ったこと** : 一回作った部分だからだいぶサクサク進むけど、テストちゃんと書くとやっぱり速度は遅くなるのかなーって思う
 
 **リンク** : [読書管理アプリ](https://github.com/Morishita-mm/TomTrek/tree/feature/BookModel)
+
+### Day 8 2025-1-14
+
+**今日の進捗** : 読書管理アプリでBookクラスとその周辺を作り込んだ
+
+**思ったこと** : Bookの操作をどのクラスから行うのか、パッケージ外からのインタフェース役としてのBookManagerと実際に処理を行うLibraryの関係でつまづいた
+
+**リンク** : [読書管理アプリ](https://github.com/Morishita-mm/TomTrek/tree/feature/BookManager)
